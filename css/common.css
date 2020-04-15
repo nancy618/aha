@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+blockquote, body, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, input, legend, li, ol, p, pre, td, textarea, th, ul {
+    margin: 0;
+    padding: 0;
+}
+
+div, span, body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background: #F0F2F5;
+    height: 5900px;
+  }
+  
