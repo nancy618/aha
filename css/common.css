@@ -16,6 +16,16 @@ div, span, body, html {
   
   body {
     background: #F0F2F5;
-    height: 5900px;
+    height: 9300px;
   }
   
+  .clearfix::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+
+  *, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
